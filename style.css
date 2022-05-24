@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color: orange; 
+}
+.namesofpeople{
+    font-size: 15px;
+    color: yellow;
+}
+#camera{
+    border: 5px dashed black;
+    height: 300px;
+    width: 400px;
+}
+p{
+    color: white;
+}
